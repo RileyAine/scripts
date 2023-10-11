@@ -42,5 +42,5 @@
  * Integrates the HTMLHint static analysis tool into Visual Studio Code.
 * [Unused CSS Classes for Javascript/Angular/React](https://marketplace.visualstudio.com/items?itemName=rcore.rcore-unused-css-classes)
  * Highlights the unused css classes looking for html files in the same folder as the css/scss/sass files.
-* [Font Priview](https://marketplace.visualstudio.com/items?itemName=ctcuff.font-preview)
+* [Font Preview](https://marketplace.visualstudio.com/items?itemName=ctcuff.font-preview)
  * An extension that lets you view fonts straight in your editor. Try out different font feature settings, mess with variable font axes, and view glyphs without leaving VS Code!
