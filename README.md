@@ -9,7 +9,7 @@
 * [Auto-Using for C#](https://marketplace.visualstudio.com/items?itemName=Fudge.auto-using)
  * This Provides IntelliSense for and imports references from all available sources. It will automatically include all of the using statements for libraries that your might be using.
 ## Git/Docker
-* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
  * This extension is used for viewing git log, file history, compare branches or commits.
 * [GIT Lens](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
  * It helps you to visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more.
